@@ -1,6 +1,5 @@
 - 👋 Olá, eu sou Leonardo (aka Phersya)!
 - 👀 Meu interesse é em Javascript, focado em UI e UX.
-- 🌱 Atualmente estudo tudo relacionado ao Front-End.
 - 📫 Para entrar em contato comigo, só enviar um e-amail em contact.phersya@gmail.com ou pelo discord Phersya#1217
 
 <!---
